@@ -6,4 +6,6 @@
 
 3. Establish roles and responsibilities
 
+4. Case study of a failed project
+
 
